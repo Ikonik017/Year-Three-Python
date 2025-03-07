@@ -1,0 +1,5 @@
+print("Welcome to MAD-LIB)
+print("Please answer the following questions")
+print("")
+
+a1 = input("Enter an adjective")
