@@ -1,0 +1,19 @@
+#Constants explained
+
+#The definition of a variable is:
+#A named location
+#In a computers memory
+#that stores a value
+#the value can change
+
+#The definition of a CONSTANCE is:
+#A named location
+#In a computers memory
+#that stores a value
+#the value SHOULD NOT be changed
+
+#Here is an example of a CONSTANT
+FREETHROW = 1
+DUNKSHOT = 2
+THREEPOINTER = 3
+numberOfFouls = 0#this is a variable as it is not in capital letters so you don't change it
