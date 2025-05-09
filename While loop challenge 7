@@ -1,0 +1,12 @@
+#While loop challenge7 (gcsecs.com)
+
+#Please see below the following code
+#that displays a times table of your choice
+#Test it now
+
+timesTable = 1
+UserChoice = int(input ("Enter a times-table: "))
+while timesTable < 13:
+  print(timesTable , "x", UserChoice, "=", timesTable*UserChoice)
+  timesTable = timesTable + 1
+print ("showing the", UserChoice, "times table")
